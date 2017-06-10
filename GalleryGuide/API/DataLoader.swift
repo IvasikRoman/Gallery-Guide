@@ -27,5 +27,3 @@ class DataLoader {
         return rawArray
     }
 }
-
-// make some changes!!!
